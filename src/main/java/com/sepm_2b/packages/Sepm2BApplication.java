@@ -3,6 +3,8 @@ package com.sepm_2b.packages;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+
 @SpringBootApplication
 public class Sepm2BApplication {
 
